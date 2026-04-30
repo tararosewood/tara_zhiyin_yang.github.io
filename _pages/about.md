@@ -16,4 +16,4 @@ I work on electrode materials, electrolyte engineering, and interfacial chemistr
 
 ## Contact
 Email: zyang0203@g.ucla.edu
-📄 [Download CV](Resume_Zhiyin_Yang04022026.pdf)
+📄 [Download CV](Resume.pdf)
