@@ -43,3 +43,4 @@ Studied structure–property relationships in silicon anode to improve charge st
 ## Contact
 Email: zyang0203@g.ucla.edu
 📄 [Download CV](Resume.pdf)
+[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=kdc_Ez8AAAAJ&sortby=pubdate)
