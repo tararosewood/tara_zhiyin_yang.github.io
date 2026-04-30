@@ -18,11 +18,17 @@ I am actively seeking industry roles in:
 ### Novel Sodium-Ion Battery Anode Materials 
 Developed intercalation-modified vanadium oxide (ATVO) anode materials with improved cycling stability and capacity in aqueous sodium-ion systems.
 
+<img src="ATVO.jpg" width="500">
+
 ### Electrolyte Engineering for Aqueous Lithium-ion Batteries
 Designed and optimized electrolyte systems to expand electrochemical stability windows and suppress parasitic reactions in Li aqueous batteries.
 
+<img src="aqueous_Li.png" width="500">
+
 ### Silicon-Based Energy Storage Materials
 Studied structure–property relationships in silicon anode to improve charge storage mechanisms and cycling stability for lithium-ion batteries.
+
+<img src="Si.png" width="500">
 
 ## Technical Skills
 
